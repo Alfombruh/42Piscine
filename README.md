@@ -1,2 +1,4 @@
 # 42Piscine
-Cluster 2 green team 
+Cluster 2
+Green team 
+Shoutout to Pedro Sanchez 
