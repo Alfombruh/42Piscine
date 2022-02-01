@@ -1,1 +1,1 @@
-fconfig | grep ether | cut -c 8- | rev | cut -c 2- | rev
+ifconfig | grep ether | cut -c 8- | rev | cut -c 2- | rev
